@@ -25,7 +25,7 @@ public static void main(String[] args) { // 'public':significa que o metodo pode
     System.out.print("Digite sua idade: ");
     int Idade = scanner.nextInt();
 
-    System.out.println("\nNome: " + nome + "\nIdade: " + idade);
+    System.out.println("\nNome: " + Nome + "\nIdade: " + Idade);
     scanner.close();
     }
 }
